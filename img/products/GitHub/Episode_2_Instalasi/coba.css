@@ -1,0 +1,21 @@
+.coba h2 {
+    color: red;
+}
+.coba b {
+    color: rebeccapurple;
+}
+.coba .ayam {
+    color: blueviolet;
+}
+.selasa h2 {
+    color: aqua;
+}
+.selasa .baso {
+    color: brown;
+}
+.selasa .apa {
+    color: blue;
+    font-size: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+} 
